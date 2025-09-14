@@ -1,0 +1,9 @@
+h1 {color:#4a5759;}
+div { display: flex;
+  justify-content: center;
+  align-items: center;}
+h2 {color:#2a9d8f;}
+#crochet-projects {background-color:#a4ac86;}
+#projects {width:500px;}
+#tools {width:300px}
+#hook {width:300px}
